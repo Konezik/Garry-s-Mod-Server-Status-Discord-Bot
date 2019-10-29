@@ -1,0 +1,23 @@
+{
+  "name": "Garry-s-Mod-Server-Status-Discord-Bot",
+  "version": "1.0.0",
+  "description": "Discord bot that allows you to see the status of the server and the number of players who play on it",
+  "main": "gmodbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPupir/Garry-s-Mod-Server-Status-Discord-Bot.git"
+  },
+  "author": "MrPupir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrPupir/Garry-s-Mod-Server-Status-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/MrPupir/Garry-s-Mod-Server-Status-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0"
+  }
+}
