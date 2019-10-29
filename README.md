@@ -15,7 +15,7 @@ Settings in file `config.json`
 6. Type `cmd` and press enter
 7. Paste in the command prompt `npm install`
 8. Head over to the discord applicatons page (here https://discordapp.com/developers/applications/)
-9. Click «new application". Give it a name, picture and description.
+9. Click «new application». Give it a name, picture and description.
 10. Press Bot on the left hand side of the screen then press «Add bot» and click «Yes, Do It!» when the dialog pops up
 11. Copy down the bot token
 12. Open «config.json» with Notepad++ or something else
