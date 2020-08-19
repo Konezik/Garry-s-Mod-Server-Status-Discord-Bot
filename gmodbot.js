@@ -4,8 +4,7 @@ const settings = require('./config.json');
 var statustring = "No signal";
 
 var request = require('request');
-var gmodCommand = '/gmod'; // Command for triggering
-var gmodKey = settings.key; // Your gmod server key https://gmod-servers.com/servers/manage/ ( API Key )
+var gmodKey = settings.key;
 
 var url = 'https://gmod-servers.com/api/?object=servers&element=detail&key=' + gmodKey;
 
